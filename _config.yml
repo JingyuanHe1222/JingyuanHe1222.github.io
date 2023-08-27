@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Jingyuan He"
-  avatar           : "/images/grad_photo.png"
+  avatar           : "images\grad_photo.png"
   bio              : "First-year Master Student at Carnegie Mellon University, Language Technology Institue"
   location         : "Pittsburgh, PA, U.S."
   employer         :
