@@ -1,22 +1,14 @@
 ---
 layout: archive
-title: "Education"
-permalink: /cv/
+title: "Resume"
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /cv
+  - /resume
 ---
 
 {% include base_path %}
 
-
-Education
-======
-* M.S. in Intelligent Information Systems, Carnegie Mellon University
-  * August 2023 - May 2025 (expected)
-* B.S. in Mathematics Computer Science, University of California San Diego
-  * Minor in Computer Engineering, 
-  * August 2020 - June 2023
 
 [See my resume](http://jingyuanhe1222.github.io/files/Jingyuan_He_Resume_230825.pdf)
 
