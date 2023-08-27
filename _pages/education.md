@@ -5,8 +5,9 @@ permalink: /education/
 author_profile: true
 ---
 
-Education
-======
+[comment]: <> (Education)
+
+[comment]: <> (======)
 * M.S. in Intelligent Information Systems, Carnegie Mellon University
   * August 2023 - May 2025 (expected)
 * B.S. in Mathematics Computer Science, University of California San Diego
