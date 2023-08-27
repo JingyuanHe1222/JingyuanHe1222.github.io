@@ -1,10 +1,10 @@
 # main links links
 main:
   - title: "Education"
-    url: /publications/
+    url: /education/
 
   - title: "Experience"
-    url: /talks/    
+    url: /experience/
 
   - title: "Projects"
     url: /projects/
@@ -15,7 +15,7 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Education"
+  - title: "Resume"
     url: /resume/
     
 #  - title: "Guide"
