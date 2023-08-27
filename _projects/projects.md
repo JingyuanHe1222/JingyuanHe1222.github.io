@@ -5,10 +5,8 @@ permalink: /projects/
 author_profile: true
 ---
 
-[comment]: <> (Education)
 
-[comment]: <> (======)
-* Encoder-Decoder Image Captioning on COCO-2015 Dataset
+* [Encoder-Decoder Image Captioning on COCO-2015 Dataset](http://jingyuanhe1222.github.io/projects/image_captioning.html)
 * Image Compression by Singular Value Decomposition
 * Seeking Utopia - Storyplot Game
 * ZooSeeker - Android Application which Offers Navigation for San Diego Zoo
