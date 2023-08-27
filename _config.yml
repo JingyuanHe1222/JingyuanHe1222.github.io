@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Jingyuan He"
-  avatar           : "images\grad_photo.png"
-  bio              : "First-year Master Student at Carnegie Mellon University, Language Technology Institue"
+  avatar           : "grad_photo.png"
+  bio              : "First-year Master Student at Carnegie Mellon University, Language Technology Institutee"
   location         : "Pittsburgh, PA, U.S."
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
