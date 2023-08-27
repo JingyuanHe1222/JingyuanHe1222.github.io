@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingyuan He's Personal Website"
 title_separator          : "-"
 name                     : &name "Jingyuan He"
-description              : &description "personal description"
+description              : &description "First-year master studet at Carnegie Mellon University, Language Technology Institue"
 url                      : https://jingyuanhe1222.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JingyuanHe1222/JingyuanHe1222.github.io"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jingyuan He"
   avatar           : "grad_photo.png"
   bio              : "First-year Master Student at Carnegie Mellon University, Language Technology Institue"
   location         : "Pittsburgh, PA, U.S."
-#  employer         :
+  employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "jingyuan_he@outlook.vom"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "JingyuanHe1222"
   google_plus      :
   keybase          :
   instagram        :
