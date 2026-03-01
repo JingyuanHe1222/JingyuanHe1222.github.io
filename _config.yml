@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jingyuan He's Personal Website"
 title_separator          : "-"
 name                     : &name "Jingyuan He"
-description              : &description "First-year master studet at Carnegie Mellon University, Language Technology Institue"
+description              : &description "SWE @ Meta\n MIIS @ CMU\n MathCS @ UCSD"
 url                      : https://jingyuanhe1222.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "JingyuanHe1222/JingyuanHe1222.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/jingyuan-he/"
+  linkedin         : "www.linkedin.com/in/jingyuan-he/"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
