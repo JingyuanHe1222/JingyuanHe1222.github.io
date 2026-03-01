@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-[See my resume](http://jingyuanhe1222.github.io/files/Jingyuan_He_Resume_230825.pdf)
+[See my resume](http://jingyuanhe1222.github.io/files/Jingyuan_He_Resume_260203.pdf)
