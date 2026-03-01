@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Education"
+title: "🎓Education"
 permalink: /education/
 author_profile: true
 ---
 
-## 🎓 Education
 
 ### **Carnegie Mellon University**  
 **M.S. in Intelligent Information Systems**  

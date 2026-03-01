@@ -1,13 +1,10 @@
 ---
 layout: archive
-title: "Projects"
+title: "🔬 Research & Technical Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-## 🔬 Research & Technical Projects
-
----
 
 ### **Open Recommendation Benchmark for Reproducible Research with Hidden Tests (ORBIT)**  
 **Research Assistant** — Carnegie Mellon University, Pittsburgh, PA  

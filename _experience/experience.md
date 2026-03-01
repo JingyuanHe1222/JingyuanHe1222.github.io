@@ -1,11 +1,10 @@
 ---
 layout: archive
-title: "Experience"
+title: "💼 Professional Experience"
 permalink: /experience/
 author_profile: true
 ---
 
-## 💼 Professional Experience
 
 ### **Software Engineer**  
 **Meta Platforms, Inc.**  
