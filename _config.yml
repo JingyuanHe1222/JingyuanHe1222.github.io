@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Jingyuan He"
-  avatar           : "grad_photo.jpg"
-  bio              : "First-year Master Student at Carnegie Mellon University, Language Technology Institutee"
-  location         : "Pittsburgh, PA, U.S."
+  avatar           : "Jingyuan_He_sq.JPG"
+  bio              : "SWE @ Meta\n MIIS @ CMU\n MathCS @ UCSD"
+  location         : "CA, U.S."
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "http://yourfullgooglescholarurl.com"
@@ -102,7 +102,7 @@ author:
   instagram        :
 #  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "www.linkedin.com/in/jingyuan-he/"
+  linkedin         : "jingyuan-he"
 #  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
