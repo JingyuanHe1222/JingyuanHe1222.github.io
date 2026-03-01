@@ -7,7 +7,7 @@ author_profile: true
 
 
 ### **Open Recommendation Benchmark for Reproducible Research with Hidden Tests (ORBIT)**  
-**Research Assistant** — Carnegie Mellon University, Pittsburgh, PA  
+Research Assistant — Carnegie Mellon University, Pittsburgh, PA  
 *February 2025 – June 2025*  
 
 - Designed and developed [**ORBIT**](https://www.open-reco-bench.ai/), a unified sequential recommendation benchmark enabling fair and reproducible model comparison with hidden test evaluation.
@@ -17,7 +17,7 @@ author_profile: true
 ---
 
 ### **Efficient Dense Retrieval with Boundary-Aware Cluster Routing (BACR)**  
-**Research Assistant** — Carnegie Mellon University, Pittsburgh, PA  
+Research Assistant — Carnegie Mellon University, Pittsburgh, PA  
 *September 2023 – May 2024*  
 
 - Proposed **BACR**, a cluster-routing model for fine-grained search over cluster-based Approximate Nearest Neighbor (ANN) indices.
@@ -27,7 +27,7 @@ author_profile: true
 ---
 
 ### **Mixture-of-Experts Neuro-Computational Network on Fusiform Face Area**  
-**Undergraduate Research Assistant** — The Cottrell Lab, UC San Diego  
+Undergraduate Research Assistant — The Cottrell Lab, UC San Diego  
 *January 2023 – June 2023*  
 
 - Trained word, object, and face expert networks to study subordinate-level image classification in the Fusiform Face Area.
